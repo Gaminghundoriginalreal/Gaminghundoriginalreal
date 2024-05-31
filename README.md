@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Gaming Hund
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning nothing
+- 📫 How to reach me discord: gaminghund
