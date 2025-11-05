@@ -133,3 +133,76 @@ Ersetze überall YOUR_USERNAME, YOUR_NAME, YOUR_WEBSITE, etc.
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_ONE&theme=transparent&hide_border=true"/>
   </a>
   <a href="https://github.com/YOUR_USERNAME/PROJECT_TWO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_TWO&theme=transparent&hide_border=true"/>
+  </a>
+</p>
+
+---
+
+## 🧪 Fun Widgets
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&row=1&column=6" alt="trophies"/>
+</p>
+
+<p align="center">
+  <!-- coole Wellen-Trennung als SVG -->
+  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/dist/capsule_render.svg?type=waving&color=gradient&height=120&section=footer"/>
+</p>
+
+---
+
+## 🤝 Kontakt
+
+* 🌐 Website: **YOUR_WEBSITE**
+* ✉️ Mail: **YOUR_MAIL**
+* 💬 Discord: **YOUR_DISCORD**
+
+---
+
+### ⚙️ Setup‑Hinweise
+
+1. **Snake-Animation aktivieren**
+
+   * Neues Repo `YOUR_USERNAME` erstellen (genau dein Nutzername).
+   * Workflow hinzufügen (z.B. `/.github/workflows/snake.yml`):
+
+```yml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: YOUR_USERNAME
+          outputs: |
+            dist/snake.svg
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+2. **Stats-Card & Top-Langs**
+
+   * Nutzt `anuraghazra/github-readme-stats`. Deploy optional auf Vercel, sonst Public-Endpoint wie oben.
+
+3. **Typing-Animation**
+
+   * Nutzt `readme-typing-svg`. Texte im URL-Query anpassen.
+
+4. **Badges**
+
+   * `shields.io` – Farben/Logos per `logo`/`logoColor`/`color` anpassbar.
+
+---
+
+> 💡 Tipp: Pack das Ganze in dein Profil-Repo `YOUR_USERNAME/YOUR_USERNAME` als `README.md`. Dann erscheint es auf deiner Profilseite ganz oben.
+> Wenn du willst, passe ich dir das direkt auf deinen Nick & Projekte an – einfach Username + 2–3 Lieblingsprojekte schicken.
