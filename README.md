@@ -1,10 +1,6 @@
-<!--  
-README-Vorlage: "Geile" GitHub-Description mit vielen Sprachen & Animationen  
-Ersetze überall YOUR_USERNAME, YOUR_NAME, YOUR_WEBSITE, etc.
--->
+
 
 <!-- Banner / Header -->
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Hey%2C+ich+bin+YOUR_NAME+%F0%9F%91%8B;Fullstack+Dev+%7C+Open-Source+%7C+Tech+Enthusiast;Sauberer+Code+%E2%9C%85+%E2%80%A2+kranke+Features+%F0%9F%94%A5" alt="Typing SVG"/>
 </p>
@@ -16,10 +12,10 @@ Ersetze überall YOUR_USERNAME, YOUR_NAME, YOUR_WEBSITE, etc.
 <!-- Badges / Quick Links -->
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME?tab=followers"><img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge"/></a>
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge"/></a>
-  <a href="https://YOUR_WEBSITE" target="_blank"><img src="https://img.shields.io/badge/website-online-blue?style=for-the-badge"/></a>
-  <a href="mailto:YOUR_MAIL"><img src="https://img.shields.io/badge/email-contact-success?style=for-the-badge"/></a>
+  <a href="https://github.com/Gaminghundoriginalreal?tab=followers"><img src="https://img.shields.io/github/followers/Gaminghundoriginalreal?style=for-the-badge"/></a>
+  <a href="https://github.com/Gaminghundoriginalreal"><img src="https://komarev.com/ghpvc/?username=Gaminghundoriginalreal&style=for-the-badge"/></a>
+  <a href="https://bigfox24.site" target="_blank"><img src="https://img.shields.io/badge/website-online-blue?style=for-the-badge"/></a>
+  <a href="mailto:gaminghundreal@gmail.com"><img src="https://img.shields.io/badge/email-contact-success?style=for-the-badge"/></a>
 </p>
 
 ---
@@ -32,7 +28,7 @@ Ersetze überall YOUR_USERNAME, YOUR_NAME, YOUR_WEBSITE, etc.
 
 ---
 
-## 🧰 Tech‑Stack (sehr viel, sehr wild)
+## 🧰 Tech‑Stack
 
 <!-- Riesen-Sprachen-/Tech-Badge-Wall -->
 
@@ -107,19 +103,19 @@ Ersetze überall YOUR_USERNAME, YOUR_NAME, YOUR_WEBSITE, etc.
 ## 📊 Stats & Animationen
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaminghundoriginalreal&theme=transparent&hide_border=true" alt="streak"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gaminghundoriginalreal&show_icons=true&theme=transparent&hide_border=true" alt="stats"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" alt="top langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaminghundoriginalreal&layout=compact&theme=transparent&hide_border=true" alt="top langs"/>
 </p>
 
 <!-- Contribution Snake (aktivieren: eigenes Repo-Workflow) -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Gaminghundoriginalreal/Gaminghundoriginalreal/output/snake.svg" alt="snake animation"/>
 </p>
 
 ---
