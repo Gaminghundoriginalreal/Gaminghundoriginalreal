@@ -1,7 +1,7 @@
 <!-- Profile README for @Gaminghundoriginalreal -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=700&center=true&vCenter=true&width=900&height=80&lines=Hey,+ich+bin+Gaminghundoriginalreal;I+write+code+to+feel+less+alone;Sometimes+things+just+exist" alt="Typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=700&center=true&vCenter=true&width=900&height=80&lines=Hi,+I'm+Gaminghundoriginalreal;I+write+code+to+stay+occupied;Sometimes+I+just+watch+things+fall+apart" alt="Typing"/>
 </p>
 
 <p align="center">
@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Gaminghundoriginalreal?tab=followers"><img src="https://img.shields.io/github/followers/Gaminghundoriginalreal?style=for-the-badge"/></a>
-  <a href="https://github.com/Gaminghundoriginalreal"><img src="https://komarev.com/ghpvc/?username=Gaminghundoriginalreal&style=for-the-badge"/></a>
-  <img src="https://img.shields.io/badge/Made%20with-coding-555555?style=for-the-badge"/>
+  <a href="https://github.com/Gaminghundoriginalreal?tab=followers"><img src="https://img.shields.io/github/followers/Gaminghundoriginalreal?style=for-the-badge&label=Followers"/></a>
+  <a href="https://github.com/Gaminghundoriginalreal"><img src="https://komarev.com/ghpvc/?username=Gaminghundoriginalreal&style=for-the-badge&label=Profile+Views"/></a>
+  <img src="https://img.shields.io/badge/Made%20with-Coding-555555?style=for-the-badge"/>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  Full‑stack attempts • quiet experiments • build in silence • ship or don’t
+  Full-stack tinkering • quiet experiments • build in silence • ship if you must
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@
 
 <p align="center">
   <a href="https://github.com/Gaminghundoriginalreal?tab=repositories">
-    <img src="https://img.shields.io/badge/See%20my%20repos-gray-1a73e8?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Explore%20my%20repos-gray-1a73e8?style=for-the-badge"/>
   </a>
 </p>
 
